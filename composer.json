@@ -1,0 +1,12 @@
+{
+    "name": "moduly/path",
+    "description": "this is for demo",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Moduly\\Path\\": "src/"
+        }
+    },
+    "require": {}
+}
